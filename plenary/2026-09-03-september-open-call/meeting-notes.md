@@ -4,6 +4,16 @@
 
 These reviewed notes were prepared from the Google Gemini notes and computer-generated transcript together with the Google Meet side chat. The call was not video recorded.
 
+## Attendees
+
+- Nicolas Gimenez
+- Akinori Oyama
+- Lee DeSota
+- Marc-Antoine Parent
+- Puja Ohlhaver
+- Simone Vagnoni
+- Yuting Jiang
+
 ## Summary
 
 The group discussed how DDS can support open standards and open-source infrastructure across deliberation communities without replacing existing tools or prescribing a single stack. The immediate direction is intentionally simple: provide a shared GitHub gathering place where people can add relevant standards, tools, and use cases; invite early contributors to present their work; and learn from participation before defining a formal taxonomy or undertaking broader synthesis.

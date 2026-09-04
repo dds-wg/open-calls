@@ -2,6 +2,16 @@
 
 At the September 3 DDS plenary, we discussed what the group should produce and how to begin without imposing a monolithic stack or a premature taxonomy on the deliberation ecosystem.
 
+## Attendees
+
+- Nicolas Gimenez
+- Akinori Oyama
+- Lee DeSota
+- Marc-Antoine Parent
+- Puja Ohlhaver
+- Simone Vagnoni
+- Yuting Jiang
+
 ## What We Agreed
 
 - Start simply by making the DDS GitHub organization a shared gathering place where people can add relevant open standards, open-source tools, evaluation criteria, and real-world use cases.
