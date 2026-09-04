@@ -1,0 +1,147 @@
+DDS Plenary Open Call - Google Meet side chat
+September 3, 2026
+
+Times are shown as exported by Google Meet. Sender labels have been reduced to participant names, and Google accessibility/export text has been removed. Message wording is otherwise preserved.
+
+4:25 PM - Marc-Antoine Parent
+Nicolas: I see the 6 tracks in your documents, they seem relevant. Does this correspond to subgroups?
+
+4:25 PM - Nicolas Gimenez
+yes.
+
+4:25 PM - Elianna DeSota
+Updates from Puja:
+How do we let every community exist and build separately while informing DDS - such that we can slowly converge on a - reactive and open - standard/stack as we build and identify opportunities to influence standards in a strategic way.
+
+4:25 PM - Nicolas Gimenez
+track=subgroup
+
+4:26 PM - Marc-Antoine Parent
+Interested in 3, 1, and 5 in that order :-)
+
+4:28 PM - Marc-Antoine Parent
+I would say: Identify a common abstraction that allows interoperability between as many initiatives as reasonable
+Make sure to cover the main common use cases.
+
+4:30 PM - Simone Vagnoni
+I said that current democratic processes are happening outside formal institutional channels, captured by private social networks and analyzed to manipulate and hack them. So creating a standard to permit different platforms, institutions, organizations or informal groups to exchange deliberative data (with all that it concerns and mean) horizontally, vertically and securely, whenever and if they want, to permit selective communication but also collective metacognition (the will of the crowd without losing the complexity and the plurality)
+
+4:30 PM - Akinori Oyama
+1. toolbox
+2. privacy-preserving audit + Secret Execution container.
+
+4:31 PM - Marc-Antoine Parent
+Thank you Simone!
+
+4:31 PM - Nicolas Gimenez
+On decentralized identity: the group should assess objectively whether this or that solution is privacy-preserving or not objectively, but it should not command one or other solution. that's up to the users
+why? lots of trade-offs involved, done everyday on privacy for example
+lots of users want to use things that are more convenient instead of private
+it's ok
+
+4:34 PM - Elianna DeSota
+Short clarification - I wasn't saying we should talk about whether we should use DID or not. I was more saying -> there is money and attention on identiy solutions. Maybe we can all throw in our experiments on identity. and figure out what criteria a successful identity solution might have to protect people, or meet other deliberative use cases/needs.
+
+Eg. with Metagov we're gathering lots of Digital Identity (of whatever type) experts to see if we can build an understanding of what each solution must have in order to create identity that doesn't violate human rights. The attention is there - so in being reactive - how do we at least clarify for humans on the other end of these solutions which of these solutions are safe, which are not, and how we might use any one of them (provided they're safe)
+
+4:34 PM - Nicolas Gimenez
+most important positioning of W3C DDS to me is: it is credibly neutral. not a company, not a non-profit.
+only agree to uphold the "principles": interoperability, sovereignty, verifiability, resilience, usability, plurarity, fairness
+
+4:36 PM - Marc-Antoine Parent
+Love the principles, 100%. But am I right in saying that we will uphold them while creating something?
+
+4:36 PM - Simone Vagnoni
+second point: for that reason we need the players in the field to have a word on that (talking about expertise and needs), so it's a legitimate standard, and different research, institutional and private groups are independently working on that and could be useful have their expertise to converge, as Lee was saying.
+
+Here we kinda bring on the table (and decide together what to do) what outside we do in our group, since we are not even financed. But these same experts or representatives are part of the group, and is of interest of everyone to converge
+what outside we are doing in our groups*
+from expert of my supervisors, often in these kind of groups participate lobbyist to push for their work, and we need our collective intelligence and expertise to decide the best
+expertise*
+
+4:39 PM - Marc-Antoine Parent
+...and to extract the key criteria for choice, the common denominator for interop
+
+4:39 PM - Elianna DeSota
+Feels antithetical to... deliberation
+
+4:40 PM - Marc-Antoine Parent
+Choosing key criteria is fundamental, yes
+
+4:41 PM - Nicolas Gimenez
+https://github.com/dds-wg/open-calls/blob/main/plenary/2026-08-06-august-open-call.pdf
+
+4:42 PM - Marc-Antoine Parent
+But again: In which of those tracks are we doing a survey of solutions + criteria for choice ; vs building an interop layer
+
+4:43 PM - Nicolas Gimenez
+In reply to Marc-Antoine Parent: "But again: In which of those tracks are we doing a survey of solutions + criteria for choice ; vs building an interop layer"
+
+We start by inviting experts. If solutions exist, good. If solutions don't exist or partially exist, we build upon them. E.g.: build on AT Protocol
+
+4:43 PM - Marc-Antoine Parent
+So start with a broader survey of the fields. Sounds right.
+
+4:43 PM - Yuting Jiang
+https://participedia.net/
+
+4:43 PM - Nicolas Gimenez
+However, tracks depends on each others. Doesn't make sense to create any work in track 3 to 6 without having clearly defined "profiles" in track 1
+
+4:43 PM - Marc-Antoine Parent
+Certainly outreach other groups.
+
+4:46 PM - Elianna DeSota
+Next steps:
+1. Gather the current standard processes into the DDS Github.
+2. Invite the experts to connect with us.
+
+4:46 PM - Marc-Antoine Parent
+We should have a mechanism to identify and invite those experts. Eg: Semble collection for each track.
+
+4:47 PM - Elianna DeSota
+heeh yess a semble collection :)
+
+4:47 PM - Puja Ohlhaver
+i think there can be an open call for standards in the democratic deliberation stack. they can tag and self-identify what tags or categoires they belong to. i think that's a first step.
+
+4:47 PM - Marc-Antoine Parent
+I'll have a few things I'll throw together...
+
+4:48 PM - Elianna DeSota
+We are working on publishing it but we're still in process of diagramming all the processes and making sure that all the people we're working with are happy about publishing first... The hope is publish in hte next couple of months tho
+
+4:49 PM - Marc-Antoine Parent
+https://www.arg.tech/ has databases
+
+4:52 PM - Elianna DeSota
+Next steps:
+1. Gather the current standard processes into the DDS Github - (Who to create?)
+2. Invite the experts to connect with us. - each call as it comes.
+3. open call for standards in the democratic deliberation stack (also the github?). they can tag and self-identify what tags or categories they belong to. i think that's a first step.
+
+4:55 PM - Marc-Antoine Parent
+an old list by a colleague: https://docs.google.com/spreadsheets/d/1wQShF0J3lGmIFACTvt5FLQWnKc1YdRaaCEDvRJlcUT8/edit?gid=0#gid=0
+
+4:57 PM - Marc-Antoine Parent
+In CDL we thought of having a list of features and criteria to evaluate deliberation technologies. This is what we came up with. https://docs.google.com/spreadsheets/d/17cnrfNVwh_ETZDbfCIw-XV_t2zmwP2jJHCKUJIY0nGg/edit?gid=0#gid=0
+I think it's great to have both directions: Abstract to concrete, but also from concrete processes and derive properties
+
+5:00 PM - Nicolas Gimenez
+In reply to Marc-Antoine Parent: "I think it's great to have both directions: Abstract to concrete, but also from concrete processes and derive properties"
+
+agreed
+
+5:00 PM - Elianna DeSota
+I do have to head off to another call. But if someone can send whatever agreed on steps eventually emerge to the matrix that would be lovely!
+
+5:04 PM - Yuting Jiang
+Next steps: 1. aggregate different standards (prioritize ones with real life use cases and adoption). Github? 2. host month calls with standard presentation + open deliberation.
+
+5:07 PM - Marc-Antoine Parent
+Polis-based research on deliberation in Japan that I'm aware of: https://takayuki-ito.com
+
+5:09 PM - Yuting Jiang
+Idea: become the home for standards. Next steps: 1. aggregate on Github different standards (prioritize ones with real life use cases and adoption). We can start with MetaGov's standard and Japan's broad listening case.
+
+2. Host month calls with standard presentation + open deliberation
