@@ -1,0 +1,183 @@
+DDS Plenary Open Call - Google Meet side chat
+October 1, 2026
+
+Original chat timestamps, not synchronized with the video. Private details
+are redacted; punctuation is lightly normalized. Participant names are retained.
+
+00:04:43.493 - Elianna DeSota
+Hi Ale in the background :)
+
+00:14:11.224 - Bumblefudge von CASA
+v fast much content wow
+
+00:15:44.101 - Elianna DeSota
+https://kumu.io/LeeDeSota/metagov-scopes#interop-scopes/standards
+
+00:21:34.929 - Akinori Oyama
+I have a question. This is not even deliberation but simple public input. Probably that might fit to Mozilla AI + Facilitation. I have done an analysis that is done for non deliberation, simple interactive policy platform (AI chat that create a PR for suggestion to the manifesto).
+https://github.com/akinorioyama/voices-heard/blob/main/docs/pr_reflection_eval_methods_en.md
+
+00:22:49.926 - Elianna DeSota
+https://github.com/datamesh-governance/datamesh-governance.com
+
+00:31:07.776 - Simone Vagnoni
+[CryptPad document-access link redacted.]
+
+00:32:42.832 - Akinori Oyama
+(Just FYI, the book didn't open for me when I tried before the call. And, it doesn't open now. Just FYI)
+
+00:33:06.745 - Nicolas Gimenez
+same for me
+
+00:37:02.580 - Bumblefudge von CASA
+same as akinori
+
+00:37:34.087 - Bumblefudge von CASA
+> This link was copied from the browser's address bar and does not provide access to the document. Please use the  Share menu
+
+cryptpad has an interesting internal pseudo-capability-permissioning :D
+
+00:38:32.170 - Bumblefudge von CASA
+new users get share-keys that can be traced or revoked later (i.e. each of us will get an access contingent on simone's access not being revoked).  which is exactly the kind of technical detail that is extremely relevant to groupware for sensitive deliberation topics :D
+
+00:39:29.811 - Akinori Oyama
+AI & Facilitation. group. Is it for the Democracy x AI Cohort?
+https://metagov.org/projects/ai-facilitation
+I see Elianna and Stuart are shown as Contributor.
+
+I haven't read the pages as metagov seems too far to reach out. If I read the pages in full, I will figure it myself.
+
+00:39:52.173 - Bumblefudge von CASA
+too far? in what sense?
+
+00:40:55.176 - Akinori Oyama
+> too far? in what sense?
+I meant to say to participate.
+
+00:41:08.679 - Bumblefudge von CASA
+ah gotcha, thanks
+
+00:41:30.977 - Akinori Oyama
+thank you for asking.
+
+00:41:40.296 - Nicolas Gimenez
+https://github.com/dds-wg/open-calls/blob/main/plenary/2026-08-06-august-open-call.pdf
+
+00:41:43.693 - Elianna DeSota
+Yes - Ai + Facilitation is for the Democracy x AI cohort
+
+00:42:36.595 - Akinori Oyama
+Thank you, Elianna. Would you mind sharing any contact or readings for me to begin with?
+
+00:42:51.301 - Elianna DeSota
+Re to participate - also would love to know what you mean! Just a - slack is annoying problem (a hard to get into the slack thing... which does also exist) or like... based in the US and all our working groups are at terrible times for u 00
+
+00:43:12.583 - Elianna DeSota
+Ya sure - you can contact [email address redacted] and we can chat!
+
+00:43:23.544 - Elianna DeSota
+And in terms of docs I can send along - one moment!
+
+00:43:27.408 - Simone Vagnoni
+[CryptPad document-access link redacted.]
+
+00:43:53.454 - Elianna DeSota
+https://metagov.org/projects/ai-facilitation
+
+00:44:01.916 - Elianna DeSota
+High level overview @akinori
+
+00:44:45.085 - Akinori Oyama
+Thank you very much, Elianna, even in this packed conversaion. Let me read more and contact you or where it should be addressed.
+
+00:45:21.793 - Nicolas Gimenez
+https://github.com/dds-wg/dds/
+
+00:47:53.024 - Elianna DeSota
+Proposal - Create a repository on the Github based on tracks.
+
+Alternate proposal:
+Bucket - Gather lists in a couple of categories.
+1. Prior Art (not done first)
+2. All the user stories + capabilities that something that decentralized deliberation can accomplish. Bundle these/group them (these 3 need y, these 5 need x)...
+
+00:49:16.526 - Stuart Lynn
+I think I mentioned this before but I  worry that github is a hard place for non-technies to contribute to
+
+00:49:39.845 - Bumblefudge von CASA
+Issue Templates help, gitHUB is easier for non-technies than GIT (via IDE) per se
+
+00:52:40.079 - Akinori Oyama
+[Personal disclosure about participation redacted.]
+
+00:53:44.576 - Akinori Oyama
+I would like to have weval-like evaluation for deliberation.
+
+00:54:56.894 - Stuart Lynn
+We are talking to weval as part of our Mozilla grant about evaluating AI aided  deliberation
+
+00:55:01.783 - Elianna DeSota
+Next steps:
+- Nicolas to create a github focused on gathering user stories. And synthesizing to ~5 Use Cases. The rest of us to add after these 5 cases
+
+00:55:28.223 - Simone Vagnoni
+https://www.europarl.europa.eu/RegData/etudes/STUD/2026/774753/EPRS_STU(2026)774753_EN.pdf
+
+00:56:43.270 - Akinori Oyama
+@Stuarl, thank you for sharing. So, would I be looking for outcomes from Mozilla grant?
+
+00:56:59.694 - Stuart Lynn
+Potentially. It's early days.
+
+00:57:50.279 - Akinori Oyama
+(sorry to interrupt with the side topic.
+I appreciate the clarifications)
+
+00:58:06.681 - Stuart Lynn
+Got to jump off but I am happy to contribute some initial user stories (will try to make them not use cases :-) )
+
+00:58:27.930 - Bumblefudge von CASA
+https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Moving_of_identities
+
+00:58:49.418 - Bumblefudge von CASA
+^ minutes of a CG meeting 8 years ago deciding what would and wouldn't be delivered by the ActivityPub WG
+
+00:58:59.550 - Elianna DeSota
+@akinori - ahh that makes sense. Once you get into the slack it's about 2000 nerds from everywhere doing whatever work hehe. I think everyone here actually is in the Metagov slack - and also I see that sense.
+
+If you want to join the slack - we have an intro to the community here - https://metagov.org/join/community
+
+And as soon as you're in feel free to message me [Slack handle redacted] in the slack and I can point in in all the places where you can add your work and chat with folks :)
+
+00:59:15.318 - Bumblefudge von CASA
+User portability didn't get consensus to be in-scope... and that's the AP we're stuck with today :sob:
+
+01:00:25.600 - Bumblefudge von CASA
+it's still helpful to have a tentative list of prior art, though!  it helps people generate use-case/user-story ideas
+
+01:01:10.647 - Bumblefudge von CASA
+i can actually take a stab at an issue template if you guys want, can one of the chairs email me with the other chairs in CC?
+
+01:02:11.580 - Bumblefudge von CASA
+[Email address redacted.]
+
+01:03:00.021 - Akinori Oyama
+@Elianna, thank you very much.
+
+01:03:32.532 - Elianna DeSota
+II have to head! Cheers :)
+
+01:03:51.879 - Akinori Oyama
+@Nicolas and @Simone, do you like to ask potential users?
+
+01:04:04.292 - Nicolas Gimenez
+yes
+
+01:04:12.457 - Nicolas Gimenez
+once we have the template
+
+01:04:26.232 - Nicolas Gimenez
+and a few examples
+
+01:07:10.840 - Bumblefudge von CASA
+inshallah
