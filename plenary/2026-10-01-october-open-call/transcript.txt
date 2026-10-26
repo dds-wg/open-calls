@@ -1,0 +1,487 @@
+DDS Plenary Open Call - October 1, 2026
+Computer-generated transcript from Google Gemini
+
+Recording: https://youtu.be/OATtqg0ui2Y
+
+Machine-generated wording and speaker labels are retained and may contain
+recognition or attribution errors. This text has been checked for contact
+details and document-access links, but has not been verified against audio.
+An opening location detail and a personal departure aside have been redacted.
+Timestamps follow the Gemini document, not the separate chat export clock.
+
+Source notice: This editable transcript was computer generated and might
+contain errors. People can also change the text after it was created.
+
+00:00:13
+
+Elianna DeSota: Hi
+Stuart Lynn: Hey, how you doing?
+Elianna DeSota: there.
+Stuart Lynn: Uh,
+Elianna DeSota: Can you hear me? Someone was having issues with my internet earlier.
+Stuart Lynn: yeah. No, he's good.
+Elianna DeSota: Oh, wait.
+Nicolas Gimenez: Hi.
+Elianna DeSota: There it goes.
+Stuart Lynn: You're welcome.
+Nicolas Gimenez: Morning. Hi, I can
+Akinori Oyama: Hello.
+Stuart Lynn: Damn.
+Elianna DeSota: Hey, sneha.Been a while.
+sneha vijayan: Hi,
+Elianna DeSota: How are you doing?
+sneha vijayan: great. How are you?
+Elianna DeSota: Okay. Or where are you now?
+sneha vijayan: [Location detail redacted.]
+Elianna DeSota: Cool. Cool. Cool.
+sneha vijayan: Yeah.
+Elianna DeSota: Exciting. Glad to see you.
+sneha vijayan: Yes. Same. Maybe we'll catch up later as well.
+Elianna DeSota: Totally. Yeah. Let's find a time. How's everybody else doing? Nice. Oh, no. Not the head waggle.
+Stuart Lynn: It's good but busy.
+Elianna DeSota: Yeah. Yeah, that's that's alive. Simona, do you think we should start?
+
+
+00:03:53
+
+Simone Vagnoni: Yeah, maybe you can we can start. Um for what uh for who didn't attend the last uh last meetings uh the this meeting will be recorded as in the in the in the code of conduct. Uh so the the the points of our our code today uh are uh some is with me and the uh let me check them. Uh the we were uh reconvening on what we were saying the last uh last time uh the with some uh action points uh to uh create a a space in GitHub for standard tools and use cases. Uh add criteras to evaluate the canonical debate lab. um share links uh uh about broad listening and um uh and this proposal uh of uh the explaining us the groups of metagraphs working Oops.
+Elianna DeSota: Sure. Yeah, I can do it. It'll be pretty short. We don't need to go into too much detail, but I thought it was important to let you know like the work that's happening if not in as public a space.
+
+
+00:05:47
+
+Elianna DeSota: I'll just share my screen window. So quick high level overview for folks who aren't familiar with Metagv. Metagv is uh an organization that thinks about governance. The idea is that it's kind of like a lab for exploring governance across many different fields, sectors, whatever. We have anything from like governance of Dows, decentralized or autonomous organizations to indigenous communities talking about the ways that they govern or like archaeologies of even like exploring way past communities have governed. Um so quite a broad scope and one of the research areas there's many many research areas many research directors who lead all of them. One of them there's a research area named um the interoperable deliberative tools research area that is spearheaded and led by Liz Barry the executive director of metaggov and I'm like facilitating a lot of the work that happens there as it happens um this is a very high level overview of the work that is happening there has happened there um not quite the stuff that will happen there and I can go very briefly into that But high level overview is that we split this research area into standards and values.
+
+
+00:07:16
+
+Elianna DeSota: So how are we collectively agreeing on the standards that we need in order to interoperate across these groups? What are the values that we need in order to like socially interact across these groups? Um I'll start with the standard side. On the standard side, there are multiple working groups. There's data mesh, AI and facilitation, reference architecture and run sheets. and then digital identity for deliberation within data mesh. Stuart is a really good and the main contributor there. Um but there's been a lot of things Simonealso Alessandroum the work that was happening there was mainly building a high level ontology for deliberative tools across the governance cycle. Um the work that has happened there is we went we gathered kind of started built a shared schema um and then Stuart I think has implemented and built upon it um within Corala but let me know if I'm saying that wrong and then also um Deliberate is using this it's kind of we had some folks from Tedum help speak into this first schema And then um Stuart built the prototype on top of the ontology, but I think it's shifted as well.
+
+
+00:08:34
+
+Elianna DeSota: Um you can see more if you want to see the GitHub I can drop it in at the end. Um so that's kind of an overview of like how are we understanding shared data spaces. Um Stuart, do you want to add anything to that or Simoneor Alessandro?
+Stuart Lynn: No, just that we we've done some prototyping, but um it hasn't moved much further since then.
+Elianna DeSota: Totally.
+Stuart Lynn: We've kind of been kind of waiting to see how the script progresses and kind of what we want to focus on here.
+Elianna DeSota: Yeah. And I think there's two incoming. So like Simona's um ontology also we're trying to work to like communicate across the two ontologies and see what can can include all the expertise and then I don't know sir if mash bean has reached out to you yet but mash also has built some things and so trying to figure out how to sync um the second one is digital identity for deliberation we're kind of working on that one's more closed and about to open up we're building a convening it'll be based in New York And the goal is to come out with a very clear like starting valuesoriented extremely clear list of we're working with like four to five different communities who are in at risk scenarios who want to be like here's what I need from digital identity in order to feel like I'm safe and also feel like I can't be manipulated by bots.
+
+
+00:09:53
+
+Elianna DeSota: Um because there's these two pressures now that require more identification and also lead to more challenges. Um so we're working with four to five different communities as well as deliberative technologists and um and like standards digital identity standards folks and digital identity technologists to figure to really kind of like do a cross list like get a really really explicit list of user requirements and then map those requirements to what already exists and what is missing and what we need to invest in in order to build a digital identity solution that allows people to be free to speak online. um to speak like systematic political speech online. Um the other one is reference architecture and run sheets and I'll go here really quickly just to show you what that looks like a little bit. Um, so Liz Barry as well as Audrey Tang and many other contributors I can go back up to this page um here have um as well as like there's been like 30 processes about have gathered to really diagram the different processes that people are undergoing when they're deliberating.
+
+
+00:11:03
+
+Elianna DeSota: Um so we can kind of be clear about how these processes are happening, where the points of power are, where the challenges are, where the biggest like information um like blocks are. So for example, you can see here um if you see these rules like there's an SMS blast. This is a way of saying you've reached 10k people on this side and then this is time on the x-axis. Um, so it's a systematic way to document. Um, so it's like we took about 30 people from a sample of 30 oversampled. So you might have like annotations, but the idea is mainly like, hey, we had a 10K social media press. We reached out to a bunch of people. We only got 1K into the poll list. We did a big processing step. We gathered all that information. We put into SMS um to blast another set of people. Did a big big processing of people's surveys. We did an inerson deliberation, etc. and that was only 10 people and then um like validated all the work with a larger working group.
+
+
+00:12:04
+
+Elianna DeSota: So the idea is just to be able to create systematic understanding of what everybody's doing and then compare across those processes to see and collectively learn. Um there we go. And then we have AI and facilitation. AI and facilitation has two main chunks. One is open facilitation library. The other is the Mozilla AI and facilitation working group. Um, sorry if you can hear any background noise. Um, in the Mozilla AI and facilitation working group, this is the most live active one right now. Uh, we're working to gather with facilitators, get the facilitators together to define, hey, where do we want AI in our deliberation processes? Um, because it's not actually to avoid the human interaction. We actually want to upskill every person so that we're all better at deliberating. um which is our hypothesis for how we can um strengthen democratic skills across the entire world instead of like further centralizing power into these models or into a couple people who are evaluating all this information. So we're bringing the facilitators together with implementation partners.
+
+
+00:13:11
+
+Elianna DeSota: Artm is one of them um with Harmonica. Stewart is one of them with Crownshai. Um and they're going to then implement some of the recommendations of the facilitation partners as well as we'll de develop evals with these facilitation partners um and uh the collective intelligence project and then we're going to close off into um a systematic evaluation with Maria Milos um to see like hey did this actually upscale all the participants involved or are we not hitting our mark. So that's our standards side. I'm going to pause. Are there any quick questions before I go on to values? Yeah, I hear a hand.
+Nicolas Gimenez: Thank you for the presentation. It's really interesting. I wonder this um this like um drawings is there a GitHub repo to understand how how it works or are you like reusing existing drawing tools and putting there um some kind of schema that you created.
+Elianna DeSota: This is just kumo kumu the drawing or are you talking about the the hlb
+Nicolas Gimenez: Okay.
+Elianna DeSota: process?
+
+
+00:14:29
+
+Nicolas Gimenez: Yes. I mean I think more of this. Yeah.
+Elianna DeSota: this.
+Nicolas Gimenez: I mean I don't know like is it possible to create these tools this
+Elianna DeSota: I will double.
+Nicolas Gimenez: diagrams uh using your ontology uh somewhere or is it is it not available? That's my question.
+Elianna DeSota: Okay. Um, so the ontology is not directly linked to this work. I will double check with Liz and make sure they there's been like a lot of more process going on since this last update. So, I'll check if they have an updated thing that I can send out. Um, so maybe if someone can write that in chat, I can gather it as a to-do and come back with it. But yeah, I should be able to send some stuff out.
+Nicolas Gimenez: Thank
+Elianna DeSota: Totally. Um, and then the ontology does have have a GitHub. Uh, and I'll just drop this in here now and people can kind of explore the map. Um but if you go into the data mesh working group then the GitHub is here as well as like some more narrative around what it is and contributors.
+
+
+00:15:38
+
+Elianna DeSota: Cool. The Okay. So next slide is values. Um the active work here is much more education and then how are we defining how we walk about as an institution but also as a field like what would make sense. Um the projects here are theory and practice. This one is like there was a curriculum built. Um it hasn't been rolled out but we're working on like fundraising in Metagv to kind of create a democratic cultures um curriculum and allowing so that we can have help like bring more people to understand deliberative democracy and what it takes to be part of a deliberative democracy because it actually takes a lot of yeah personal work as well. Um so this one is a curriculum. There was also an essay published um with Larry Leig and Audrey Tang around what it takes to self rule. Um we have an implementation of dryac at all's deliberative phrasing index in polis. This is alongside um I'm blanking for a second but there's an implementation and then the slack work.
+
+
+00:16:50
+
+Elianna DeSota: Uh Jonathan Wharton Jonathan Wharton is uh the main implementation partner there. And then participation ethics. This one has been like up and down. Um, but the main work is trying to figure out what does it take to have like really explicit consent from participants without losing the like you're not clicking yes every two seconds. Um, so a lot of this is like consent versus actual ownership of your data. Ownership versus durable evidence of conversation. So for example, if you can withdraw your data at any point from a public deliberation, then we kind of can invalidate the results of the deliberation. Um and that can create some really systematic challenges. Um trying to explore more uh Taiwan's decentralized participant data wallets and how we allow people again to like own their data while maintaining stable stable information. Um and then any legal communication um and then governing AI. So this is another conversation that we're working on with like the Swiss government. They have um public AI.ch ch I think publicai.co and public aai.ch.
+
+
+00:18:02
+
+Elianna DeSota: Um and then there's public us now starting up in Maine, but the Swiss government specifically is trying to figure out how can we have AI that is like canton level governed by which is like how they split up Switzerland. Um so locality governed AI that is that each person in their canton can defi design define for their small locality how they want the AI to work and where they want the the data and compute and everything else. Um and then there's a smaller experiment happening at inference co-op which you can join as well which is like how do we personally govern RA um and they've been using Lumio and some other governance tools to help us learn about that. So that's mainly the values work and then there's kind of this democratic cultures portion that's connected um which has several different groups. There's the prototopian prize democratic futures. This is a fiction contest. So people write and say like what does it look like to have a democratic future. So it's inspiring imagination. Um we're working very slowly but systematically on protocol and institution design.
+
+
+00:19:14
+
+Elianna DeSota: Um and this one's growing. There's a lot of people who are quite interested in like what does it take to create new institutions that are actually supporting of deliberative democracy. Um podcast courses public education. So, we're working on delivering a public education and course um within or just supporting other people. Alessandro and Carlo have a really really lovely podcast um which I can throw the link in chat as well. Um so just kind of be like let's let's learn more. And then um the final one is Polish Light and Polish Light is run by Patcon if you're familiar and his work is um just to bring people in and explore different facilitation methodologies and all the different like polish worlds of deliberation. So this is just an overview of some of the work that we're doing. There's a couple more working groups starting up shortly. Um and anybody can join this conversation at the deliberative tools and interop conversation within the medic of slack. Um and then slowly as as we talk more and figure out where we can also like spin up working groups as it makes sense.
+
+
+00:20:30
+
+Elianna DeSota: Um, but the point of this was mainly to be like here's a bunch of work that some people are doing and wanting it to be like transparent and clear that like we're working on these things would love to share out outcomes as they come and I'll share out the ones that we have um and kind of yeah just figure out what the what makes sense I guess in terms of ongoing collaboration. So yeah, I'll drop in some links. Thanks. And if there's any questions, let me know.
+Simone Vagnoni: Thanks Elianna.Metag in let's say resource infinite resource. It's like something that they have to acknowledge in my thesis for sure. It's like so much things that we are doing. We are doing it's so so much. I was thinking um I'm very very curious about one link that you just rapidly showed and today I've seen shared by patron in group about Lucas from the liberate MCP server that it's something that for me it's very very fresh do you also know something about That's
+
+
+00:22:00
+
+Elianna DeSota: I honestly don't know that much. I was more just reading about it when it was I think Lucas works with um Hrien and Hrien helped develop the ontology with our first meeting. Um but yeah, that also they didn't even I don't think they contacted us. They were just like nice and then used it which is great.
+Simone Vagnoni: fine.
+Elianna DeSota: That's how that's what an open output is for. Um, so I'll be following up with them after today because I have backto-back calls for the next eight And Akinori, do you want to add anything? I love what you're mentioning about an analysis for non-deliberation and policy platforms.
+Akinori Oyama: Yes. Uh I hope this doesn't take up too much time of everybody but I performed this analysis for the uh some Japanese practice which is not even the develation but um just the public consultation input uh through the AI chatbot for the pretty uh policy platform or manifesto by a political party. And I had been concerned about um the um less concerned um with the general public whether that had been um say legitimately um in um influenced the public policy.
+
+
+00:23:32
+
+Akinori Oyama: um the the the feedback from the uh party hasn't been um sufficient in my sense but the uh public is not really um uh requesting more transparency and this one was just for the um um public uh input uh through AI chatbot not direct not deliveration yet um I'm concerned about this um uh um or whether Japan will have a clearer um accountability we will request or not in the future and we do have this more of the deliberation coming in and uh with less of those polls I'm not sure what will happen to um more interactive deliveration probably assisted by the same AI but maybe um that maybe lead um some of um misdirected point or the pointing to some of the direction uh uh in the hidden agenda. Um those things are something I worried about and I hope to uh say participate in any of the um work if you're doing it and I harder um there is this modular AI um facilitation part. So maybe the evaration of such may suit me and also this group um is also working on the standardization or the cataloging of the deliveration.
+
+
+00:25:05
+
+Akinori Oyama: So I may want to see how it goes and also contribute if anything is missing. Thank you.
+Elianna DeSota: Cool. Yeah, absolutely. We'll let you know as that moves along. Um, but that that tracking feels really important for eventual synthesis.
+Akinori Oyama: So maybe I will campaign for the slack uh as a start. Okay. Thank you.
+Elianna DeSota: Totally. Yeah. And I'll I'll take this and I can follow up as well.
+Akinori Oyama: Thank
+Simone Vagnoni: in yeah connecting this something b into my mind connecting this uh like let's say consultation or uh let's say different kind of listening uh to the deliberations since Walton uh researcher on argumentation framed different kinds of uh of dialogues and Um the difference with between consultation and and liberation it's we can say in a very minimal way that consultation doesn't have the discussion between cities and in involved while uh deliberation was um but depending on the on the framing of the of the dialogue uh some people together can be discussing discussing for taking a decision.
+
+
+00:26:49
+
+Simone Vagnoni: uh like in deliberation or like uh in quering if they search for uh if one searches information from other. or aristics is another one of them. And it's like when just it's just a tax just not not to just to prevail and to uh um like uh create disorder in some sense. Um we can like maybe also frame this uh in in a broader u let's say ontology or frame in which the this uh the things are connected just to just a soft spot.
+Elianna DeSota: Cool. If there's no other questions or thoughts, then I'll pass it back to Simone. What's next?
+Simone Vagnoni: The next point that we were thinking and correct me if I'm wrong, it was to uh create um uh let's say a repo uh uh a a sheet in which uh Uh we map different standards, tools and uh use cases. Uh am I right?
+Nicolas Gimenez: You you're asking if there is a repo with all the use cases.
+Simone Vagnoni: No,
+Nicolas Gimenez: I'm not sure I understand.
+Simone Vagnoni: no, no, no.
+
+
+00:28:45
+
+Simone Vagnoni: Last time we were we were uh the we were discussing to uh to create one of them, right?
+Nicolas Gimenez: Yeah. Last time we were discussing that um Lee would look at Metagago's existing uh repository for the different concrete use cases and different flows um that one could implement. Uh but I understand that this is not um this is private. So, I don't know. Le was supposed I don't know if you had time to to look at it.
+Elianna DeSota: Yeah, I am able to look at it, but I think the uh it was paused because there's a book being published hopefully next month. Um like bookish sized object I guess of different processes. um as well as with Lisa Shark. Um so I couldn't add it in. But I think also the thing we were talking about the time and I didn't end up creating the GitHub repo was just like we can all dump stuff in there as we want. Um, and then I'll I'll go through and see what can what can be ported over from metaggov.
+
+
+00:29:59
+
+Elianna DeSota: Um, as it could
+Simone Vagnoni: Yeah, sure. Um meanwhile I did um um a cryptopad Excel like file uh to make some seeds uh like example of of this that maybe we can uh put on the the repo or uh and continuing add the stuff and next month we'll have a big load adding to if when it's when it's published and I I send you the link here. Uh okay, the link is here. I will show you I will share the screen just one second for for having the same uh on the same page. Um I mean the tell me if you if you think it's a a good way to represent it's just very minimal uh chaotic dump of some example of uh tools and the processes andies that we can uh break from and maybe build knowledge upon. Maybe connecting the dots as uh as we was doing with the K diagram in general with like this knowledge and do something with that and something I put was something that we have something I thought out last time.
+
+
+00:31:51
+
+Simone Vagnoni: So participia participia database of participatory processes the economical debate lab criteria uh the deliberation technology list center for for augment technology research pol the metag of the IP the medical mapping DDS looks of concept deliberation and the new new thing we just so I mean that there are a lot of other things that we can put and that's why I'm finishing writing my thesis and can uh add the other other stuff I don't know so it's what uh it's something that we were thinking to for hours and how to how do you think we can use this information? Uh, what you what you
+Elianna DeSota: I guess as a question I'm wondering like just for clarification what is the category of things that goes in the spreadsheet? It's just like anything that is related to deliberative democracy and standards.
+Simone Vagnoni: Um yeah, possibly. Yes. I don't know. Uh this is what I understood from uh last uh from last call, but maybe I I misunderstood.
+Elianna DeSota: No, it could be.
+Simone Vagnoni: But
+Elianna DeSota: I'm just trying to get a little more specific about like how many links I should put in there, right?
+
+
+00:33:51
+
+Elianna DeSota: because there's a lot of links.
+Simone Vagnoni: Yeah, sure.
+Nicolas Gimenez: I think at the beginning like let's just uh start simple like just dump whatever you think it makes sense. Um but the general direction for me originally was to try and bring in discussion on the Russian processes as well. So bringing um facilitators and not only tech uh developers basically to discuss to be able to discuss uh what they need and then uh being able somehow to come up with a with a because at the end of the day DDS is aim to standardize. So this is going to take a lot of time like standardization take a lot of time. Um but I don't think it makes sense to standardize on on something that don't even have a a purpose. So that was the original idea I had like how do you because every single implementation that we choose we choose it because we have specific needs. So for example, as you all know, I'm more into ad protocol for what for my own reason. I want to support this or that authentication mechanism because of our use case or specific use cases.
+
+
+00:35:17
+
+Nicolas Gimenez: Um but I am not I mean I don't have all the information in the world and I don't know all of the use cases. So what I mean is that it's for me it's very important to explain as a tech designer why are we even recommending this you know because there are so many ways to build a decentralized systems why do you even need u that particular implementation am I clear or does that make sense so to to summarize The first step to me um was to to to to create a data database uh simply like unorganized database of of information that you have and then figure out later how to how to normalize this. But
+Stuart Lynn: Is that is that database? Are you proposing that that database is a database of deliberative processes like so like not technology not kind of um
+Nicolas Gimenez: I think technology is fine too. I think it's fine too. uh all sort of stuff. Uh I don't know if you remember the I think I mentioned I I was calling it basically the subgroups I was calling it I forgot who I was calling it last time in the the call but um the different there are different subgroups.
+
+
+00:36:46
+
+Nicolas Gimenez: So for each subgroups you need we need resources basically to start from and it can be ontology it can be existing tools. It can be um to learn from. It can be deliveration processes. It can be anything really.
+Stuart Lynn: I wonder if we I wonder if it's worth noting that process from scratch, but like looking to things like participedia, looking to like things like um like assembly list,
+Nicolas Gimenez: Yeah.
+Stuart Lynn: etc.
+Nicolas Gimenez: Exactly.
+Stuart Lynn: to start to pull in this information because there's a lot that's already been done.
+Nicolas Gimenez: Yes,
+Stuart Lynn: I think we Yeah.
+Nicolas Gimenez: participia is actually part of this tool. So in the Excel sheet Simonethere is participia also already.
+Stuart Lynn: I was just thinking more kind of like if we were able to like you know I'm sure some of you've done this before as well but like kind of you know like uh interacts API to bring in a bunch of existing like styles of
+Nicolas Gimenez: Yeah.
+Stuart Lynn: of facilitation and deliberation. Um, and I know that like for example Johnny from ASW is also interested in this because they've been building out their assemblies platform which is designed to kind of let people um who are running local assemblies kind of upload information about like like the process etc as well.
+
+
+00:37:53
+
+Nicolas Gimenez: Yeah, that's very relevant.
+Stuart Lynn: Yeah. So maybe that I guess a question then would be do we want to lump that all into one big spreadsheet and then kind of like organize it later or do we want to have like places for those different things within the spreadsheet up front to
+Nicolas Gimenez: I I think the the idea from previous goal was to not overwhelm yourself with a lot of processes and complicated you know uh complicated way to contribute on the start and just you know whatever like people whatever format they want just just push something on share it somehow to the community and then we figure out uh how what what we do with it how to organize it. That was the decision we It was a loose decision we agreed upon last time basically like more more being kind of a place just to hang out and discuss how to standardize this uh knowing that it's going to take a lot of time. Yeah. And then once we start organizing a little bit more, The advantage of that is that we can have focus groups because now like everybody's join the penary is nice but of course like you know ontology like not everybody's interesting ontology nobody know this a little bit of what you do in metaggo but it's not competing with metag like we're not competing with at all like it's more of a obviously it's a rooc group so the goal is to get it uh get it to create standard so it's it's not uh the
+
+
+00:39:29
+
+Nicolas Gimenez: Does that does that make sense or am I used to it?
+Stuart Lynn: Yeah. Yeah, I think so. I think I I'm a I guess I'm always a little bit nervous about kind of like work like this, which is aiming to just kind of generate a large pile of data um without a clear a clear like at least a couple of clear goals as to what it will be used for. Um, I think that can be often be a counterproductive uh like process just because I think that you end up with this large thing that you it's hard for people to understand what to put in there to Lee's point, right? Like is like what what are the categories of things to put in there. It can be a little bit intimidating for people who come or potentially who are facilitators or process designers who come and see a large list of technologies or other things. Um, and it just I guess maybe what I'm asking for is I wonder if we can come up with like one or two clear concrete early use cases to to sort of drive motivation to to sort of create this resource.
+
+
+00:40:30
+
+Stuart Lynn: Um, even if it's going to be used for other things in the future. Does that make sense?
+Nicolas Gimenez: how you organize it because the the underlying idea was this idea of track and subgroups. So originally I also think it's already pretty much clear. I mean uh if if you we already have uh I mean I already proposed um division in different subgroups which I call track. I didn't have much feedback on it but if um if you think it doesn't make sense if you think it doesn't make sense just you know there's any issue with it but that could be how we organize it. We could have uh data for for track one which is datation processes. Second one is more like how do we make so click on more pages in the link I sent you at the bottom you can click on more more pages you have all the pages and track two is more like um you know it's more like how do we make this decentralized community uh fair and viable from an economic standpoint.
+
+
+00:41:42
+
+Nicolas Gimenez: What do you do? So it's more of like for e economist and thing like that. The three I think most people here know ontology. So self-explanatory stuff four three there are a lot of different things here. We could have a mean subtract which is like add protocol uh activity pub whatever. So within each of these sub track we can we can add our own ideas of how to source things and again like what I was trying to to explain before is that even in track four or track three at some point we we got to make the link about what what's the purpose of this? How do you link it to the deliberation process? Because at some point it's not uh you know this deliberation the centralized deliberation stack.
+Bumblefudge von CASA: Cheers.
+Nicolas Gimenez: So if it's not um if if there is no goal for it if there's no goal for this technology then it doesn't make any sense. So that that was the underlying idea but just yeah go ahead.
+Stuart Lynn: Okay.
+
+
+00:42:43
+
+Stuart Lynn: I think No,
+Nicolas Gimenez: Sorry.
+Stuart Lynn: no, sorry. So, I think then maybe to make that clear,
+Bumblefudge von CASA: Yes.
+Stuart Lynn: it may be worth adding uh to the spreadsheet either different tabs for those different tracks or having
+Nicolas Gimenez: I I don't know where is this spreadsheet simony. Uh is that your own spreadsheet or is it in the repository of DDS?
+Bumblefudge von CASA: It was just shared in the chat or or reshared with the proper
+Simone Vagnoni: Yeah,
+Nicolas Gimenez: Okay.
+Simone Vagnoni: I just share it.
+Bumblefudge von CASA: permissions.
+Nicolas Gimenez: Yeah, but it's not part of of the repository DDS.
+Stuart Lynn: the
+Simone Vagnoni: Yeah.
+Nicolas Gimenez: I think let's like I think to contribute to this I was I think it's better to to to keep it centralized in a place that the whole working group uh community group um have control of which is the repository it's very easy and so there we could make I don't know a subdirecttory on DDS that we call like track one track two track track three and there we can each groups can organize themselves.
+
+
+00:43:43
+
+Nicolas Gimenez: Um there you know you can just send a proest
+Bumblefudge von CASA: So, so sorry to be um deeply insubordinate, but I I kind of want to pro propose a totally different structure um which I'm the first to admit is very rude and feel free to tell me to f*** off, but um I think that in W3C uh the tradition maybe because W3C has traditionally been dominated by software engine professional software engineers and software consultants of a certain generation that this the tradition for CGs and WGs when you have a topic area you want to harmonize practice on and sort of reduce non-interoperable efforts is to bucket it uh is to gather lists in a couple categories. One one is usually prior art, but that counterintuitively that's not done first. Um what you need to know first isn't prior art. It's like all the user stories and capabilities that you that something that deliberative uh decentralized deliberation could accomplish. you know, if you have a list of all the possible user stories that the group has consensus on being in scope.
+
+
+00:45:05
+
+Bumblefudge von CASA: Um, that might be five or 10 or 20 ideally if they're like really well distilled and you merge the semi-redundant ones. You get it down to like maybe 10. And then those 10 user stories you sort of no piece of software could or should do all of them well. So then you sort of bundle them or group them into like well if these three you know need this kind of identity system and these five need this kind of infrastructure to be centralized in some way or like you sort of like pick different notes because that's really specific but different like economic shapes which is why I love track 2. That's kind of like my jam is like what kind of architectures map to incentives that would actually get any of this paid for or sustainable. Uh but I I think like it's a little murky for me. I'm I'm having trouble because this isn't my wheelhouse understanding what the use cases are and what the trade-offs are between like I could look at the prior art and I can sort of say like all right these are more in this kind of school and these are more in this kind of school but like that feels very vague to me because I I don't have the list of use cases that each one does or doesn't do.
+
+
+00:46:25
+
+Bumblefudge von CASA: It's like it's super yak shavy boring work, but if someone had a list of user stories everyone in this group thinks are interesting or or count as deliberative decentralized liberation and then each of those you could sort of group by which user stories they they deliver or accomplish. that that can help bucket things a lot and that can help um uh you it's it's almost like you need these tracks later but before you have these tracks you you it it's helpful to have like use case goals or bundled user stories. I don't know youth user story families is what I call them. I don't know if there's a better term for it. Uh, but I don't know.
+Nicolas Gimenez: Uh no, you didn't say so too much. I think it's very very useful. Uh I don't have any experience of of previous WC methodology. So it's very very informative and actually in a way it's not so different from what I had in mind. I always I think I just don't express it correctly.
+
+
+00:47:30
+
+Nicolas Gimenez: Um um what I I talk when I talk about depression processes and every everything being related to depression processes what I actually mean is actually use cases, user stories is actually what you just said. Um um and you're right that I proposed this track probably too early. Um so I agree with this. Um now the my my question but first of all I want to hear about the with the community what they think but uh my question would be how do we organize that where do we put it how do we start from a technical perspective or how do people contribute there will be a question for you uh since you have experience with
+Bumblefudge von CASA: I I mean I I don't know in in other CGs and WGs I've been in the process takes a while. Usually it's like two or three calls with homework in between where people try to like identify like a user story in the sense of like I'm a voter. I want to be able to do this or I am a I need to be anonymous in this context or any this kind of anonymity for this kind of deliberation.
+
+
+00:48:47
+
+Bumblefudge von CASA: Um and those I don't know how to explain it. It's like those lists. One way of doing it is to look at that list of existing software and try to like boil down any capability that two of them do or like any user story two of them enable. Uh it's kind of like it's easier if someone gets a ball rolling. If someone can come up with five, the rest of the group can come up with like 20 more in 20 minutes. But it's like a Cunningham's law thing. You have to like see a rough draft before you can contribute to the first draft.
+Nicolas Gimenez: Okay,
+Bumblefudge von CASA: Uh
+Nicolas Gimenez: I I can make this issue templating and I I can make five that's not difficult for me but maybe you want to say
+Stuart Lynn: No, no. Yeah. So, I guess um just to give a concrete example is the is the kind of thing you're talking about um like a user story which is um we have a uh a community that's trying to um a large community that's trying to deliberate over a given issue.
+
+
+00:49:47
+
+Stuart Lynn: They want to create small um group uh discussions where everybody has a wide range of views. And so their goal is to use a tool like Polus to understand opinion groups um to see what people fall into those opinion groups and then use that to select those individuals to then go to another tool like Jity or Frankly or something similar um to be able to then create those groups and help those deliberations um that then get transcribed and then maybe get made sense by another tool like talk to the city. Is that the kind of user story you're talking about to kind of try and start to like give concrete examples of of the way that deliberation or the capacity of the deliberation might sorry deliberation might actually give
+Bumblefudge von CASA: Yes, with the caveat that most people who design software or code software or work in UX have an easier time coming up with use cases than user stories. So like a use case is um something like uh deliberation like patterns emerge and like deliberation like buckets become visible with little interaction from each person.
+
+
+00:51:00
+
+Bumblefudge von CASA: That sounds like a user story, but it's actually a use case because it's some technology and like makes inferences on deliberation some you know runs compute that's more of like that's already to implementation side like it's actually user user side. So like a user story is like someone can install something on their phone and 10 page loads later they are talking to between 10 and 20 people that they want to talk to. Like that's a user story. And uh one of the hardest things is like keeping straight when like I do it myself worse than anyone. I'm the biggest hypocrite in the world to explain this to someone. But uh whenever I try to make a list of user stories, I realize at the end more than half of them were use cases or had like already had some imple implementation in them. So like user the best user stories are like what value does the end user get period and like as implementation neutral as possible. So like that's a good um in a way whenever you try to make a list of user stories you usually end up with like a good list of use cases and half a list of user stories and you have to kind of iterate to force yourself into the use user brain like uh but that's uh I don't know I'm I'm actually trying to find a a good example that crossed my desk recently.
+
+
+00:52:25
+
+Bumblefudge von CASA: Let me see if I can find it. s***. Um, I'll share it in the chat when I find it. But there's a really funny example from uh eight years ago that will be extremely funny and interesting to people working on a protoone and activity.
+Stuart Lynn: That sounds good. No, that that really helps clarify. Thanks. Appreciate that.
+Alessandro Oppo: Sorry, but um the things about finding a user use case is more like um for alignment inside the the team and uh to to find like a sort of vision or like I don't know philosophical like uh uh motivation behind BDS or is it uh maybe I missed like the specific scope for this uh use case that was just to be Um,
+Nicolas Gimenez: I think the vision is already said it's more about the the how do we start working how do we start working and and it's a very wide vision it's a very very ambitious and wide vision so how do we start with something more concrete that's the more the idea
+
+
+00:53:41
+
+Bumblefudge von CASA: And and also like I would say the one one advantage to doing it in a very user storydriven way is that you can parallelize things parallelize things. So if you make a list of user stories and like half of them are really private and half of them are really public, you sort of break into like two subt task forces and whenever something you can kind of use that to parallelize and and keep everyone in their lane so when things start getting too public be like no no no send that to the other task force like that that's not one of our user stories stop working on that so that's like the the best thing the the point I mean maybe for me in many groups I've been in the point of the user story exercise is to subdivide the problem into like nonover overlapping non-redundant uh short-term goals. So then like 3 months later you've made progress on multiple user stories in parallel with no one having to go full-time on this. That's sort of like I I keep it really like I think in in W3 groups you have to be really realistic about like the chairs are putting in this many hours a month and everyone else is putting in this many hours a month and like use that to guide your expectation of timelines a
+
+
+00:55:08
+
+Nicolas Gimenez: So yeah, go ahead.
+Simone Vagnoni: Um so oh sorry um so so you you
+Nicolas Gimenez: Sorry.
+Simone Vagnoni: are suggesting to like unpack the um uh let's say the the the concepts that uh that create uh a use case of deliberation and uh and work to make uh this imaginary or or existing u like deliberation processes say uh to to make it make them possible in a decentralized way. Um the what I what I shared it's a a report that among others map civic tech tools. This is let's say in maybe a a reverse uh uh way to map since mean it starts from the existing uh and uh can maybe limit maybe not the the possible because it's like what already exists with the limits of the the tools that already have uh are in practice in Europe but not only for deliberative processes but not So maybe we can also take from this uh report and other gatherings that some researcher did and I'm doing too and maybe extrapolate the one the tools that are that fall into the category of collaborative tools and uh and expand from that that are the existing uh examples some others that can uh be valuable for uh for us that really don't exist anymore.
+
+
+00:57:24
+
+Nicolas Gimenez: Uh yeah. So I guess um I can make the GitHub issues template is that or anybody else wants to want to do it to start this or cuz my understanding is that it wouldn't be um u so the we we basically started in the wrong place. So the listing of tools is is something we should do but more like later but we started with that bit too early and then before we do that we need to identify clear user stories that um that that you know need to from a user perspective need to solve a problem and identify and and then from that we we take that and try to solve them in um in parallel and when solving them we can identify like building blocks that um have already solved it or something like that. So that's when uh doing the the work of state-ofthe- arts of the tools and trying to create like concepts tracks that we groups different that solve the different user stories because inside your story you can have actually things that are repeated. So how do you systematically solve this?
+
+
+00:58:48
+
+Nicolas Gimenez: Um I think that's the does it do do anyone have any anything to say against that? Like I would be interested to know if someone think it doesn't make sense. So don't be shy.
+Elianna DeSota: I'm just responding live to Bumble Fudge's note. Uh template sounds great. Um I can send an email. Do you want anything in that email or is it just connecting everybody?
+Bumblefudge von CASA: just to connect everyone. My thought was I'll email what I'm picturing to the chairs and the chairs will presumably keep editing and not just cut and paste it into GitHub for other people. Uh presumably there's details I you know I'm not I'm not deep enough in the subject matter but uh just off the top of my head because I've done this for other CGs like in the last two months uh I I think I have the issue template fresh the template template fresh in my
+Simone Vagnoni: Thank you. So, Nicholas, what what you were proposing? So, it's to uh Can you repeat it,
+
+
+01:00:18
+
+Nicolas Gimenez: So,
+Simone Vagnoni: please?
+Nicolas Gimenez: Bumber Bumbumber F, if I understand, you're going to send me send us by email the template you have in mind, right? I'm not sure I got what you just said.
+Bumblefudge von CASA: Yeah.
+Nicolas Gimenez: And then we can use it.
+Bumblefudge von CASA: So, so the way GitHub templates work,
+Nicolas Gimenez: Yeah, it's easy.
+Bumblefudge von CASA: it's like it's just a markdown file and and like my idea would be like some question
+Nicolas Gimenez: It's easy.
+Bumblefudge von CASA: like the some prompts and um like like dummy text like sample in
+Nicolas Gimenez: Yeah.
+Bumblefudge von CASA: each and that that's worked well in other groups. So like the questions are like basically provide a user use case andor user stories uh that are well served by that use case depending on what or kind of which is easier for you to start with. And um the way we did it in some other groups at diff uh was the the the template is like proposing
+Nicolas Gimenez: It's different.
+Bumblefudge von CASA: uh user stories or use cases that would be in scope for this group and as much or as little detail as the proposer wants to give.
+
+
+01:01:21
+
+Bumblefudge von CASA: Um, and what you do is like it, uh, ones that seem like uncontroversial or ones that don't need much work, you just put them straight into the repo as markdown and then accept PRs against them to expand or or delete them. Um, whether as markdown or as JSON or whatever. That way people can, you know, it does, you don't need to be technical to start this process and it's not that hard to figure out how to PR a markdown file uh if you've never used GitHub before. And then that lets you say at the next meeting have like uh like um triage session where you say okay between the chairs we couldn't all agree whether this one was in or out of scope. What do you guys think? what edits would make it clearly in scope and not redundant. And then you can sort of triage the ones that are sort of borderline or confusing or spicy. And then you have a list to say like, okay, some people want to work on these five user stories, some people want to work on these other five user stories.
+
+
+01:02:28
+
+Bumblefudge von CASA: Then you can sort of like have sub goals.
+Nicolas Gimenez: Okay. Yeah, I don't see any objection to to that. I think it makes sense to me personally. Um, can we can I um follow up with you? Like you sent your email. I I I can do this quickly.
+Bumblefudge von CASA: Yeah.
+Nicolas Gimenez: I think have a first draft and see what you think and we can have a back and forth conver conversation
+Bumblefudge von CASA: Yeah. Sure. Sure.
+Nicolas Gimenez: with that.
+Bumblefudge von CASA: Sure. Sure.
+Nicolas Gimenez: Yeah.
+Bumblefudge von CASA: Yeah.
+Nicolas Gimenez: Okay.
+Bumblefudge von CASA: My my advice though is just CC.
+Nicolas Gimenez: Of course.
+Bumblefudge von CASA: DC chairs on all that so that it's like even if they they have nothing to say,
+Nicolas Gimenez: Of course.
+Bumblefudge von CASA: they might like to read the whole thing at the end.
+Nicolas Gimenez: Yeah. Yeah. I mean I will send it to public.
+Bumblefudge von CASA: Uh that's fine,
+Nicolas Gimenez: So it's publication.
+
+
+01:03:10
+
+Bumblefudge von CASA: too. That's fine, too.
+Nicolas Gimenez: Yeah.
+Bumblefudge von CASA: Yeah. Uh yeah, as long as the the rest of the list cares.
+Nicolas Gimenez: I don't want to spam everyone. I don't see
+Bumblefudge von CASA: Yeah. I mean the the thing is is like it it's like if W3C is where you standardize things and standardize means there has to already be multiple solutions and you're proposing common ground common APIs common infrastructure so that they're less
+Nicolas Gimenez: H.
+Bumblefudge von CASA: redundant to each other and so that there's like a more efficient interchangeable way of doing things.
+Nicolas Gimenez: Yeah.
+Bumblefudge von CASA: Um, and that's kind of there's, you know, it's kind of like a pyramid or a stack metaphor where um,
+Nicolas Gimenez: Of
+Bumblefudge von CASA: you can only say one solution is better than the other or that uh, compromises are justified relative to user stories.
+Nicolas Gimenez: course, this is exactly what I wanted to say.
+Bumblefudge von CASA: User stories are like the point system.
+Nicolas Gimenez: Then okay.
+Bumblefudge von CASA: It's like a video game and user stories are the point system.
+
+
+01:04:10
+
+Bumblefudge von CASA: There we go. That's my metaphor.
+Alessandro Oppo: Yes, just want to say goodbye [Personal aside redacted.]
+Nicolas Gimenez: Yeah, it's so much time.
+Alessandro Oppo: and uh we still have to pray for the software to to work well.
+Nicolas Gimenez: Okay, we'll pray for you.
+Alessandro Oppo: Yeah, we have to pray at least one hour because uh so goodbye. Thank you.
+Simone Vagnoni: So maybe we can wrap up. We will send the mail to Bumble Foods. Uh it's going to be you Nicholas or
+Nicolas Gimenez: Uh,
+Simone Vagnoni: or
+Nicolas Gimenez: I'm happy to do this. I I don't know if I want to spam everyone uh on the public DDS email. Uh, I don't think that makes sense. Maybe I should. Uh, but at least the chairs. But since it's more of a preparatory work, maybe we can do this uh like putting copy the chairs and I can put I can discuss with um Bumblefudgeand you anybody can join in the chairs and then when once we have a template then I can send or someone can send whatever an email inviting everyone to comment and um you know say whether they they think it makes sense or whatever.
+
+
+01:05:38
+
+Nicolas Gimenez: What do you think, Sim?
+Simone Vagnoni: Yeah. Yeah. I think it's I think it's okay with we should like yeah have a common ground on on that to to go to go ahead. Also for me it's I mean it's a I'm trying to to formalize all this stuff. It's a bit difficult and sorry also for today that I had to my
+Nicolas Gimenez: No, it's
+Simone Vagnoni: my moderation was not the best deliberate deliberating and talking about meta deliberation the ontologies complicated by the
+Nicolas Gimenez: it's it's good. It's good. It's good.
+Simone Vagnoni: end
+Nicolas Gimenez: Thank you, Simone,so much. Thank you everyone. Uh for a also if you want to talk uh but thank you. Thank I think you uh it would be amazing to bring Japanese use cases uh user stories. I think you mentioned how can we contribute. I think it's exactly what we want. Like I think I exactly want to have actual people who would not take builders or whatever to voice their needs and I think you know you have been very vocal about this and I completely agree with you that's exactly the point that's what I was talking about with the database or whatever.
+
+
+01:06:58
+
+Nicolas Gimenez: Yeah.
+Akinori Oyama: Thank you very much. Um I sorry if I'm off the topic and I introduced many of topic. Um I'm I'm just uh wondering if the use case I was talking about. Um that's really the strong use case for the group because uh I think if you have those standard and stack it's
+Simone Vagnoni: I don't know.
+Akinori Oyama: will be much easier to begin um this open evaluation and I'm just wondering if there are some bullies um who want to do that really Um but uh if I can find one I can introduce. But uh um do you see anyone uh actually who really wants that kind of the say use?
+Nicolas Gimenez: What do you mean? Uh, anyone who want that kind of use what I didn't I'm sure not sure I understand what you what you're saying.
+Akinori Oyama: Thank you for asking. The one I was uh the my main aim or main goal for me is really to have somebody who would like to evaluate the process. So they just come in and try to um use the um maybe external tools but um um cataloged in the standard so that they will start uh variating some of the processes but what I'm uh seeing is I haven't seen any um clear any organization that really are driven to do that at least
+
+
+01:08:53
+
+Nicolas Gimenez: It's exactly what we're trying to do here. I there are organization who do that. Um but I agree with you that the processes are not clearly defined in many organizations and it's difficult for nontechnical people to understand even why what are we doing why are we doing that and how to contribute and that's exactly something I think it's very important for DDS to do right which is to uh have um an easy easy way for for for non-technical people to contribute uh to the discussion about the processes and provide their use cases and the user stories basically. Um and I I think this template is just one way of doing it. Um if you can share after we I we decide on template and I I can we can start with a few user stories on our side. You can share this with your community and they can write their own their own user stories and so you can we can write a lot of user stories and then from that we can decide uh how do we move on and I do think that like I proposed initially we will need a subtract that is always focused on processes that is not at all uh technical in you know that that that really make develop new processes because It's it's actually quite complex deliberation and very very
+
+
+01:10:26
+
+Nicolas Gimenez: specific to each community each environment. So I think that uh a key uh just a matter of time but we'll get there.
+Akinori Oyama: Okay. Um yeah, that thank you. Um no um not sure if I have communicated myself uh clearly. Um um not one part is really the side topic. Uh I'm looking for the place to contribute. The other part is that I had been thinking about this specific use cases people may have which I haven't seen um but this will help and I was wondering who might have such a uh motivation and um not sure uh where I am not aware that you already have such a uh people or the uh group who are looking for this uh better um a variation process or the uh the process of say sharing the data whichever is possible through the this is stack.
+Nicolas Gimenez: Oh, I understand. Yeah.
+Akinori Oyama: Sorry I I just wanted to clarify what I meant.
+Nicolas Gimenez: Do you mean like like kind of like the priority book or team books, things like that?
+
+
+01:11:46
+
+Nicolas Gimenez: Like how to contribute to a pool of information? Is that what you're saying?
+Akinori Oyama: Um maybe can you repeat to the last part? I'm sorry I
+Nicolas Gimenez: Uh the pl polarity book and the Timai book. You know there are people from all over the the the world or even Japan for Timai that contribute to this book. Do you mean how do you govern such uh how do you mean how to do how to do how to do it in a decentralized way and how to do it well? Is that what you are worried about?
+Akinori Oyama: Not exactly. Uh I was thinking about the use case you were looking for. Um I thought um if uh there is somebody out there who wants um to use the you know the stack or the standard you're going to develop and I was not sure uh whether you know somebody who are actually looking for uh this uh stack that if you find one or if you already know one maybe you can ask the user or you know the potential user about such
+
+
+01:13:03
+
+Nicolas Gimenez: Yes,
+Akinori Oyama: use case.
+Nicolas Gimenez: we know Agora for example like we have users and there there is a
+Akinori Oyama: Okay.
+Nicolas Gimenez: need for interoperability there's a need for um interoperability outside gora also uh exporting importing we do have our own use cases so I know also Stuartis running Crunchy. So he has his own uses users and so on. So that that's that's where we get our user story basically.
+Akinori Oyama: Okay, thank you. Yeah,
+Nicolas Gimenez: Yeah.
+Akinori Oyama: of course you have like the verification or the inter operability.
+Nicolas Gimenez: Yeah.
+Akinori Oyama: Of course, thank you. Yeah, so sorry for taking up your two of your time.
+Nicolas Gimenez: No, no, don't be sorry. It's open.
+Akinori Oyama: I just wanted to uh clarify myself and also uh was curious
+Nicolas Gimenez: Very
+Akinori Oyama: um how you are going to get or from who you are going to get such uh user stories. Thank you.
+Nicolas Gimenez: good point. Okay, on my side I have to go. I don't know for you guys.
+Simone Vagnoni: We need to say thank you very much and uh see you in one month or
+Nicolas Gimenez: See you.
+Simone Vagnoni: uh or in the chat.
+Nicolas Gimenez: Bye-bye.
+Akinori Oyama: Thank you.
+Simone Vagnoni: Byebye.
+Akinori Oyama: Bye-bye.
+Simone Vagnoni: Thank you.
