@@ -1,0 +1,130 @@
+DDS Plenary Open Call - Google Meet side chat
+November 5, 2026
+
+Recording: https://youtu.be/bW_8SOyOrPw
+
+Original chat timestamps, not checked against the recording. Participant names
+and public links are retained. Two messages about non-participants' whereabouts
+are redacted. No personal email addresses or private access links were found.
+Formatting is normalized from the supplied SBV export.
+
+00:03:58.162 - Yuting Jiang
+Hi guys!
+
+00:04:00.550 - Juan Caballero
+[Third-party whereabouts redacted.]
+
+00:04:13.049 - Juan Caballero
+[Third-party whereabouts redacted.]
+
+00:04:36.568 - Juan Caballero
+www.internetidentityworkshop.com
+
+00:04:57.027 - Nicolas Gimenez
+https://www.agoracitizen.network
+
+00:06:05.643 - Yuting Jiang
+Hi I'm Nico's cofounder at Agora. I will just listen today. Nice to meet you!
+
+00:06:49.386 - Johnny Stormonth-Darling
+https://assemblis.org/en
+
+00:09:02.792 - Juan Caballero
+https://www.w3.org/groups/wg/did/
+https://www.w3.org/groups/wg/social/
+https://www.w3.org/groups/wg/vc/
+
+00:11:13.336 - Nicolas Gimenez
+https://github.com/dds-wg/dds/issues/24
+
+00:11:23.320 - Nicolas Gimenez
+https://github.com/dds-wg/dds/issues/23
+
+00:11:34.120 - Johnny Stormonth-Darling
+cool, we can definitely add to this
+
+00:11:36.010 - Nicolas Gimenez
+https://github.com/dds-wg/dds/issues/22
+
+00:11:45.647 - Nicolas Gimenez
+https://github.com/dds-wg/dds/issues/26
+
+00:11:54.785 - Nicolas Gimenez
+https://github.com/dds-wg/dds/issues/
+
+00:15:53.057 - Juan Caballero
+spam away!
+
+00:21:31.429 - Juan Caballero
+i know it can induce anxiety in chairs to imagine having to do this much work, but one way of managing this complexity is something like this:
+https://www.w3.org/TR/did-use-cases/#requirements
+
+00:28:20.569 - Simone Vagnoni
+https://github.com/dds-wg/dds/issues/26
+
+00:28:36.790 - Simone Vagnoni
+https://www.w3.org/TR/did-use-cases/#requirements
+
+00:42:17.509 - Juan Caballero
+that's aligned with where i was headed
+
+00:42:45.675 - Johnny Stormonth-Darling
+cool
+
+00:42:52.319 - Juan Caballero
+i was saying that the use-case template isn't too early to surface those possible "negative requirements" and assumptions, is all.  i'm sure this group would get there anyways, this is just an accelerant nudge
+
+00:44:17.308 - Johnny Stormonth-Darling
+👍
+
+00:47:46.065 - Juan Caballero
+i think "bridged users" are a valid user-class in between "authenticated" (by the core system) and "unauthenticated" users
+
+00:48:01.896 - Nicolas Gimenez
+yes
+
+00:48:12.586 - Juan Caballero
+for some use-cases, flagging them as bridged is enough (e.g., as non-voting commenters)
+
+00:54:06.431 - Juan Caballero
+yes they "read weights"
+
+00:54:26.354 - Juan Caballero
+i'm not sure it's ready for primetime, yet, i wouldn't let a blackbox train my lightweight models just yet
+
+00:54:50.365 - Juan Caballero
+right
+
+00:54:56.175 - Juan Caballero
+idunno write a use-case issue!
+
+00:56:23.713 - Juan Caballero
+to put a finer point on my previous point, in the age of agents threat modeling and unhappy-path engineering is MORE urgent before you can call anything a standard, because for every helpful good-faith agent there's 10 with poisoned context doing evil :D
+
+00:56:48.032 - Nicolas Gimenez
+good point to look at unhappy path
+
+00:57:06.587 - Juan Caballero
+negative requirements need to be communicated to the _harness_, not the agent :D
+
+01:00:23.263 - Johnny Stormonth-Darling
+I will do some user stories in next week or so. Happy to help comparing a big table of crosses if I have time.
+
+01:01:48.445 - Juan Caballero
+nice
+
+01:03:43.701 - Johnny Stormonth-Darling
+I'd better go folks. Thanks for the chat. I like the way forward. Will get on the stories when I have a minute.
+
+01:05:17.127 - Simone Vagnoni
+https://metagov.org/delib-tools
+
+01:05:38.994 - Simone Vagnoni
+Evaluating	reflecting on current conditions
+Agenda setting	prioritizing, framing, identifying dimensions and stakeholders
+Eliciting	self-reflecting on values, lived experience, and acquired knowledge
+Learning	welcoming evidence or others’ lived experience, mapping arguments, graphing debates, steel manning, fact-checking
+Deliberating	explaining yourself to others, being paraphrased to others, articulating values, arguing positions
+Proposing	ideating solutions, forming proposals, modeling scenarios
+Deciding	ranking, voting, integrating objections, consenting
+Actuating	taking a decision and making it happen, tracking status
