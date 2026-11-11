@@ -9,7 +9,7 @@ User stories and use cases to guide system design, implementation assessment, an
 - [W3C meeting occurrence](https://www.w3.org/events/meetings/5a9efa11-888f-4941-80e8-5b420d4bf5ca/20261105T140000/)
 - [Meeting notes (draft)](./2026-11-05-november-open-call/meeting-notes.md)
 - [Chat transcript](./2026-11-05-november-open-call/chat-transcript.txt)
-- [Mailing-list archive](https://lists.w3.org/Archives/Public/public-dds/2026Nov/)
+- [Community update (mailing list)](https://lists.w3.org/Archives/Public/public-dds/2026Nov/0002.html)
 - [YouTube recording](https://youtu.be/bW_8SOyOrPw)
 
 ## October 1, 2026

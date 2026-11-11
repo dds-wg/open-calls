@@ -116,10 +116,10 @@ These are plans recorded at the meeting, with later progress explicitly marked a
 - [W3C DID use cases and requirements matrix](https://www.w3.org/TR/did-use-cases/#requirements)
 - [Metagov Deliberative Tools Gallery and process stages](https://metagov.org/delib-tools)
 - [DDS GitHub issues](https://github.com/dds-wg/dds/issues)
-- [November mailing-list archive](https://lists.w3.org/Archives/Public/public-dds/2026Nov/)
+- [November plenary follow-up email](https://lists.w3.org/Archives/Public/public-dds/2026Nov/0002.html)
 - [October meeting notes](../2026-10-01-october-open-call/meeting-notes.md)
 
-**Repository check:** On November 11, 2026, the public DDS repository contained one issue template, `user-story.yml`, with five questions covering the need, context, actors, requirements, and references/open questions. Only the first question was required. No separate use-case template was present. This is a post-call check, not a meeting decision.
+**Repository check before publication of the use-case template:** On November 11, 2026, the public DDS repository contained one issue template, `user-story.yml`, with five questions covering the need, context, actors, requirements, and references/open questions. Only the first question was required. A separate use-case template was subsequently published as described below. This is a post-call update, not a meeting decision.
 
 ## Post-call Follow-up
 
@@ -127,7 +127,7 @@ Following the call, a complementary [use-case template](https://github.com/dds-w
 
 This follow-up draws on W3C Linked Web Storage, Web of Things, Credentials Community Group education work, and non-W3C use-case methods. It also makes the call's emphasis on prohibited combinations and unhappy paths explicit. Contributions can come through GitHub, the public mailing list, Matrix, or an open call.
 
-The template was prepared after the meeting, not adopted during it. It is currently a local draft; the links above become available once the DDS changes are merged. Publish the template before circulating announcements that invite people to use it.
+The template was prepared after the meeting, not adopted during it. It and the accompanying guidance are now published in the DDS repository. The [November 11 follow-up email](https://lists.w3.org/Archives/Public/public-dds/2026Nov/0002.html) shares the recording, notes, and invitation to contribute.
 
 The follow-up invitation emphasizes that format is not a barrier: short messages, rough notes, sketches, and existing public documents are welcome without reformatting. The priority is to gather needs and information broadly, then clarify and structure them collaboratively.
 
